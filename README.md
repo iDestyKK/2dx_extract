@@ -13,7 +13,7 @@ Traversing the file to find these is as simple as running a for-loop throughout 
 Type "make" in the terminal... It's that easy.
 
 <b>Windows</b>
-Open up your favourite IDE (Like Visual Studio) and drag the files in and let it compile it for you. If I am not lazy, I might do it for you sometime later.
+Open up your favourite IDE (Like Visual Studio) and drag the files in and let it compile it for you. Since I was feeling generous, I compiled it for you too. Go into the "bin" folder and just download the EXE there. <a href = "https://github.com/iDestyKK/2dx_extract/blob/master/bin/2dx_extract.exe?raw=true" target = "_blank">Or if you are really feeling lazy... here you go.</a>
 
 <h2>How to use</h2>
 In Linux (And probably Mac), open up your terminal. In Windows, open up the Command Prompt.
