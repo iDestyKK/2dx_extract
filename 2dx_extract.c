@@ -8,8 +8,8 @@
  *
  * To Compile:
  *     LINUX  : Type "make" in the terminal.
- *     WINDOWS: Open Visual Studio and make an new project. Drag this file and all files in "lib/" in.
- *              Compile it. If you are lucky (or lazy), someone might have done this for you already.
+ *     WINDOWS: Open Visual Studio 2015 and make an new project. Drag this file and all files in "lib/" in.
+ *              Compile it. Or, since I was feeling generous, I compiled it for you. Look in "bin/". :)
  *
  * Author:
  *     Clara Taylor (iDestyKK)
