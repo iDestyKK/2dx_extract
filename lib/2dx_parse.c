@@ -96,3 +96,8 @@ void extract_data(DX_ARC* ARC) {
         printf("Done\n");
     }
 }
+
+void arc_free(DX_ARC* ARC) {
+    free(ARC->byte);
+    free(ARC->export);
+}

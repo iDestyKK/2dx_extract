@@ -17,5 +17,6 @@ ct_byte SDX9_CHECK    (ct_byte*, ct_uint);
 void    print_2dx_info(int     , char** , DX_ARC*);
 void    parse_data    (DX_ARC* , INFO*);
 void    extract_data  (DX_ARC*);
+void    arc_free      (DX_ARC*);
 
 #endif

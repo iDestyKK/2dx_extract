@@ -41,6 +41,7 @@ main(int argc, char** argv /*, char** envp*/ ) {
         parse_data  (&ARC, &DATA);
         extract_data(&ARC);
     }
+    arc_free(&ARC);
 
     //Have a nice day
     return;
