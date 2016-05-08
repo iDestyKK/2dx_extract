@@ -11,4 +11,4 @@ PROG_SRC = 2dx_extract.c
 
 # Perform Awesomeness...
 2dx_extract:
-	$(CC) $(CFLAGS) -o 2dx_extract $(PROG_SRC) $(HELPER_FILES)
+	$(CC) $(CFLAGS) -o $(BIN) $(PROG_SRC) $(HELPER_FILES)
