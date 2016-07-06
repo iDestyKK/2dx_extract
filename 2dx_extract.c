@@ -12,7 +12,7 @@
  *              Compile it. Or, since I was feeling generous, I compiled it for you. Look in "bin/". :)
  *
  * Author:
- *     Clara Taylor (iDestyKK)
+ *     Clara Van Nguyen (iDestyKK)
  */
 
 //C Include
