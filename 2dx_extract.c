@@ -24,7 +24,7 @@
 #include "lib/2dx_structs.h"
 #include "lib/2dx_parse.h"
 
-main(int argc, char** argv /*, char** envp*/ ) {
+int main(int argc, char** argv /*, char** envp*/) {
     //Argument Parse
     INFO DATA;
     initialize_info(&DATA);
@@ -44,5 +44,5 @@ main(int argc, char** argv /*, char** envp*/ ) {
     arc_free(&ARC);
 
     //Have a nice day
-    return;
+    return 0;
 }
